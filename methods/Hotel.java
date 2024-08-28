@@ -1,3 +1,6 @@
+//task-1 6-8-24
+
+
 class Hotel
 {
 	String name="Punjab"; 

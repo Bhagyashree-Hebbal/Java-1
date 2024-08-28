@@ -1,3 +1,6 @@
+//task-2 6-8-24
+
+
 class Company1
 {
 	int id;

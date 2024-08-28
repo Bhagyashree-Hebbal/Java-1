@@ -1,3 +1,6 @@
+//task-5 5-8-24
+
+
 class Paper
 {
 	int thickness;
